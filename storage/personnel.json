@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Sacha",
+    "title": "Comptable",
+    "image": "../images/chatnoir.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Charles",
+    "title": "Boss",
+    "image": "../images/chattigre.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Charlotte",
+    "title": "Secrétaire",
+    "image": "../images/chatblanc.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Richard",
+    "title": "Ouvrier",
+    "image": "../images/chatroux.jpg"
+  }
+]

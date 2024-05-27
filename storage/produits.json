@@ -1,0 +1,62 @@
+{
+  "croquettes": [
+    {
+      "id": 1,
+      "name": "Croquettes surreaux",
+      "price": "10€/kg",
+      "image": "../images/croquette-bleue.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Croquettes saumon",
+      "price": "15€/kg",
+      "image": "../images/croquette-saumon.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Croquettes mix",
+      "price": "12.5€/kg",
+      "image": "../images/croquette-mix.jpg"
+    }
+  ],
+  "jouets": [
+    {
+      "id": 1,
+      "name": "Lots balles",
+      "price": "7€",
+      "image": "../images/jouet-balle.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Roue",
+      "price": "15€",
+      "image": "../images/jouet-roue.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Souris",
+      "price": "2€",
+      "image": "../images/jouet-souris.jpg"
+    }
+  ],
+  "lits": [
+    {
+      "id": 1,
+      "name": "Canapé pour chat",
+      "price": "20€",
+      "image": "../images/canape-rayure.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Pouf pour chat",
+      "price": "30€",
+      "image": "../images/pouf-gris.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Lit pour chat",
+      "price": "40€",
+      "image": "../images/lit-gris.jpg"
+    }
+  ]
+}
